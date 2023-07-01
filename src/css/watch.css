@@ -1,3 +1,29 @@
 .watch {
-  background-color: blue;
+  display: flex;
+  /* width: 1278px;
+  height: 402px; */
+  background-color: #06071b;
+  padding: 60px 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.watch-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.watch-title {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29.05px;
+  color: #ffffff;
+}
+
+.watch-text {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19.36px;
+  color: #ffffff;
 }

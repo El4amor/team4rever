@@ -1,3 +1,22 @@
 .costumer {
-    background-color: darkgreen;
+    
+}
+
+.costumer-container {
+}
+.costumer-title {
+}
+.costumer-card {
+    display: flex;
+}
+.costumer-image {
+    width: 181px;
+height: 181px;
+flex-shrink: 0;
+}
+.costumer-name {
+}
+.costumer-company {
+}
+.customer-comment {
 }

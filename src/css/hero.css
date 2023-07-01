@@ -1,3 +1,20 @@
 .hero {
     background-color: brown;
+    
+}
+
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+
+.swiper-pagination-bullet-active {
+    width: 30px;
+    height: 30px;
+    background-color: blueviolet;
+}
+
+.swiper-pagination-bullet {
+    width: 30px;
+        height: 30px;
 }
